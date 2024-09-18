@@ -7,6 +7,8 @@ public class Main{
 
         Vehicle vehicle = new Vehicle("car","petrol");
 
+        dkfhaiGEHJ;
+
 
     }
 }
